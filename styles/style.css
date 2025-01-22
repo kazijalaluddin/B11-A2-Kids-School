@@ -277,7 +277,6 @@ font-weight: bold;
 align-items: right;
 }
 footer {
-    /* background-color: #333; */
     color: #fff;
     padding: 20px 0;
     display: flex;
@@ -285,21 +284,18 @@ footer {
     align-items: center;
 }
 .footer-menu ul li {
-    margin: 0 15px;
+    margin: 0 0px;
 }
 .footer-menu ul li a {
     text-decoration: none;
     color: #fff;
     font-size: 16px;
-    transition: color 0.3s ease;
-}
-.social-icons a {
-    margin: 0 10px;
+    
 }
 .social-icons img {
     width: 30px;
     height: 30px;
-    /* transition: transform 0.3s ease; */
+    
 }
 
 
